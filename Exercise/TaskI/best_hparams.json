@@ -1,8 +1,0 @@
-{
-  'RandomForest': {'criterion': 'gini', 'max_depth': 1, 'max_features': 'auto', 'min_samples_leaf': 5, 'min_samples_split': 6, 'n_estimators': 280},
-  'DecisionTree': {'criterion': 'entropy', 'max_depth': 29, 'max_features': 'sqrt', 'min_samples_leaf': 8, 'min_samples_split': 4},
-  'svm' :  {'C': 24.678539630231498, 'gamma': 'auto', 'kernel': 'linear'},
-  'xgboost' : {'booster': 'gbtree', 'colsample_bytree': 0.9726979433987133, 'eta': 0.013692988629520534, 'eval_metric': 'logloss', 'gamma': 3.990499197892894, 'grow_policy': 'lossguide', 'max_depth': 21, 'min_child_weight': 8.0, 'num_threads': 4, 'objective': 'binary:logistic', 'subsample': 0.7025619513749428, 'verbosity': 0},
-  'lightgbm' : {'boosting_type': 'gbdt', 'subsample': 0.8069159416588685, 'colsample_bytree': 0.8186783735937218, 'learning_rate': 0.04669483279255087, 'metric': 'binary_logloss', 'num_leaves': 714, 'objective': 'binary', 'reg_alpha': 0.6570397599979627, 'reg_lambda': 0.03784950639114426, 'verbose': 0},
-  'catboost' : {'depth': 1, 'eval_metric': 'AUC', 'iterations': 100, 'l2_leaf_reg': 3.1198327753070645, 'learning_rate': 0.45955238467520804, 'loss_function': 'Logloss'}
-}
