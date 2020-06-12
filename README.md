@@ -7,4 +7,4 @@ Google Summer of Code - Machine Learning in High Energy Physics
 
 ## Deployment
 ### Feature Map
-* Example I : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/AlkaidCheng/GSOC_MLHEP/blob/master/Deployment/Feature_Map/Feature_Map_Walkthrough.ipynb)
+* Example I : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AlkaidCheng/GSOC_MLHEP/blob/master/Deployment/Feature_Map/Feature_Map_Walkthrough.ipynb)
