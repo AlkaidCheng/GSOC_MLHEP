@@ -7,6 +7,9 @@ Google Summer of Code - Machine Learning in High Energy Physics
 
 ## Deployment
 ### Feature Map
-* Example I (deprecated, to be updated): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AlkaidCheng/GSOC_MLHEP/blob/master/Deployment/Feature_Map/Feature_Map_Walkthrough.ipynb)
+* Tutorial (deprecated, to be updated): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AlkaidCheng/GSOC_MLHEP/blob/master/Deployment/Feature_Map/Feature_Map_Walkthrough.ipynb)
 ### Trial Wavefunction
-* Example II: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AlkaidCheng/GSOC_MLHEP/blob/master/Deployment/Trial_Wavefunction/Trial_Wavefunction_Walkthrough.ipynb)
+* Tutorial : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AlkaidCheng/GSOC_MLHEP/blob/master/Deployment/Trial_Wavefunction/Trial_Wavefunction_Walkthrough.ipynb)
+
+### Parameter Sweep
+* Tutorial : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AlkaidCheng/GSOC_MLHEP/blob/master/EncodingCircuitWithSweep.ipynb)
