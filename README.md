@@ -16,4 +16,4 @@ Google Summer of Code - Machine Learning in High Energy Physics
 * Tutorial : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AlkaidCheng/GSOC_MLHEP/blob/master/Deployment/ParamResolver/EncodingCircuitWithParamResolver.ipynb)
 
 ### Circuit Descriptors
-* Tutorial : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AlkaidCheng/GSOC_MLHEP/blob/master/Circuit_Descriptors/Propeties_of_PQC.ipynb)
+* Tutorial : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AlkaidCheng/GSOC_MLHEP/blob/master/Circuit_Descriptors/Properties_of_PQC.ipynb)
