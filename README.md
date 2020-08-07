@@ -26,5 +26,4 @@ Google Summer of Code - Machine Learning in High Energy Physics
 
 
 ### Feature Updtes
-* Tutorial : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
-(https://colab.research.google.com/github/AlkaidCheng/GSOC_MLHEP/blob/master/Feature_Updates_Jul_7.ipynb)
+* Tutorial : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AlkaidCheng/GSOC_MLHEP/blob/master/Feature_Updates_Jul_7.ipynb)
