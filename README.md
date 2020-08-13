@@ -6,14 +6,16 @@ Google Summer of Code - Machine Learning in High Energy Physics
 * Task II - Quantum Computing: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AlkaidCheng/GSOC_MLHEP/blob/master/Exercise/TaskII/QMLHEP_Exercise_Quantum_Computing_Part.ipynb)
 
 ## Deployment
-### Feature Map
-* Tutorial : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AlkaidCheng/GSOC_MLHEP/blob/master/Deployment/Feature_Map/Feature_Map_Walkthrough.ipynb)
+### Encoding Circuit
 
-### Trial Wavefunction
-* Tutorial : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AlkaidCheng/GSOC_MLHEP/blob/master/Deployment/Trial_Wavefunction/Trial_Wavefunction_Walkthrough.ipynb)
+* Tutorial I: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AlkaidCheng/GSOC_MLHEP/blob/master/Deployment/Feature_Map/Feature_Map_Walkthrough.ipynb)
 
-### Parameter Resolver and Resolved Circuit
-* Tutorial : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AlkaidCheng/GSOC_MLHEP/blob/master/Deployment/ParamResolver/EncodingCircuitWithParamResolver.ipynb)
+### Variational Circuit
+
+* Tutorial I: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AlkaidCheng/GSOC_MLHEP/blob/master/Deployment/Trial_Wavefunction/Trial_Wavefunction_Walkthrough.ipynb)
+
+### Parameterised Circuit Tutorial
+* Tutorial I: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AlkaidCheng/GSOC_MLHEP/blob/master/Deployment/ParamResolver/EncodingCircuitWithParamResolver.ipynb)
 
 ### Circuit Descriptors
 * Tutorial : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AlkaidCheng/GSOC_MLHEP/blob/master/Deployment/Circuit_Descriptors/Properties_of_PQC.ipynb)
@@ -21,9 +23,8 @@ Google Summer of Code - Machine Learning in High Energy Physics
 ### Variational Quantum Classifer
 * Tutorial : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AlkaidCheng/GSOC_MLHEP/blob/master/Variational_Quantum_Classifier_Walkthrough.ipynb)
 
-### Additional Features
+### General Features
 * Tutorial : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AlkaidCheng/GSOC_MLHEP/blob/master/New_Features_Walkthrough.ipynb)
-
 
 ### Feature Updtes
 * Tutorial : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AlkaidCheng/GSOC_MLHEP/blob/master/Feature_Updates_Jul_7.ipynb)
